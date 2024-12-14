@@ -7,3 +7,6 @@ This project was developed by Kris Haamer (me) based on the experimental [Genera
 - Jeremy Philemon ([@jeremyphilemon](https://github.com/jeremyphilemon)) - [Vercel](https://vercel.com)
 - shadcn ([@shadcn](https://twitter.com/shadcn)) - [Vercel](https://vercel.com)
 - Jared Palmer ([@jaredpalmer](https://twitter.com/jaredpalmer)) - [Vercel](https://vercel.com)
+
+
+## This is a web3-fork of the project developed before the hackathon. The goal here is to add blockchain-based features.
